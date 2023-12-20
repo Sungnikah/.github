@@ -10,7 +10,7 @@ Translate in English Version : **Currently we are trying to build a good product
 
 Translate in Bahasa : **Saat ini kami sedang berupaya membangun produk yang baik untuk masa depan di industri wedding solutions, tentunya tidak menutup kemungkinan hanya digital invitation, ada beberapa ide yang akan kami buat dan upayakan untuk mendapatkan pemasukan.**
 
-This organization is independent and adopts the theories and concepts of an influencer/tech leader (A.K.A Luis Ginanjar)
+This organization is independent and adopts the theories and concepts of an influencer/tech leader [(A.K.A Luis Ginanjar)](https://www.linkedin.com/in/luisginan)
 <!--
 
 **Here are some ideas to get you started:**
