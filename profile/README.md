@@ -11,6 +11,10 @@ Translate in English Version : **Currently we are trying to build a good product
 Translate in Bahasa : **Saat ini kami sedang berupaya membangun produk yang baik untuk masa depan di industri wedding solutions, tentunya tidak menutup kemungkinan hanya digital invitation, ada beberapa ide yang akan kami buat dan upayakan untuk mendapatkan pemasukan.**
 
 This organization is independent and adopts the theories and concepts of an influencer/tech leader [(A.K.A Luis Ginanjar)](https://www.linkedin.com/in/luisginan)
+
+🍿 Fun facts - What is your organization all about? This organization comes with a digital invitation, this team is working or contribute this organization is everywhere, or work form anywhere!
+🌈 Contribution guidelines - how can the community get involved ?, We are involved because we have the same vision!
+
 <!--
 
 **Here are some ideas to get you started:**
