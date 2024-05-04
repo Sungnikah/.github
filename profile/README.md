@@ -12,7 +12,7 @@ Translate in Bahasa : **Saat ini kami sedang berupaya membangun produk yang baik
 
 This organization is independent and adopts the theories and concepts of an influencer/tech leader [(A.K.A Luis Ginanjar)](https://www.linkedin.com/in/luisginan)
 
-🍿 Fun facts - What is your organization all about? This organization comes with a digital invitation, this team is working or contribute this organization is everywhere, or work form anywhere!
+🍿 Fun facts - What is your organization all about? This organization comes with a digital invitation, this team is working or contribute this organization is everywhere, or work form anywhere! </br>
 🌈 Contribution guidelines - how can the community get involved ?, We are involved because we have the same vision!
 
 <!--
