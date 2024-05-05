@@ -23,7 +23,7 @@ Sungnikah is a wedding blog website that provides inspiration, guidance and tips
 
 Translate in English Version : **Currently we are trying to build a good product for the future in the wedding solutions industry, of course we don't rule out the possibility of just digital invitations, there are several ideas that we will create and try to get income.**
 
-Translate in Bahasa : **Saat ini kami sedang berupaya membangun produk yang baik untuk masa depan di industri wedding solutions, tentunya tidak menutup kemungkinan hanya digital invitation, ada beberapa ide yang akan kami buat dan upayakan untuk mendapatkan pemasukan.**
+Translate in Bahasa : **Saat ini kami sedang berupaya membangun produk yang baik untuk masa depan di industri wedding solutions, tentunya tidak menutup kemungkinan hanya digital invitation, ada beberapa ide yang akan kami buat dan upayakan untuk mendapatkan pemasukan untuk keberlangsungan organisasi ini untuk terus tumbuh dan berupaya membantu orang - orang yang hendak mencari informasi terkait pernikahan.**
 
 This organization is independent and adopts the theories and concepts of an influencer/tech leader [(A.K.A Luis Ginanjar)](https://www.linkedin.com/in/luisginan)
 
