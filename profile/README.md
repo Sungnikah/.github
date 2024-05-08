@@ -30,6 +30,34 @@ This organization is independent and adopts the theories and concepts of an infl
 🍿 Fun facts - What is your organization all about? This organization comes with a digital invitation, this team is working or contribute this organization is everywhere, or work form anywhere! </br>
 🌈 Contribution guidelines - how can the community get involved ?, We are involved because we have the same vision!
 
+
+- T**eam Member / SN Troops Meet the team** 😃 **** :
+    
+    ***Plan and vision*** still in progress, but we belive something bigger products from vision and mission will accuired.
+    
+    1. **Dimas Prasetyo** : Frontend Developer Specialist & Jr. Fullstack Developer.
+        
+        ![9084664.jpg](https://prod-files-secure.s3.us-west-2.amazonaws.com/f919ea82-652b-457a-afb1-c1fa46a0bc71/04317895-8fcc-4da4-941f-678a19431e13/9084664.jpg)
+        
+        Linkedin : https://www.linkedin.com/in/dimas-prasetyo
+        
+        Email : dimasprasetyo485@gmail.com
+        
+    2. **Arie Aditya Nugraha** : Frontend Developer Specialst & UIUX solutions.
+        
+        ![1666974366611.jpeg](https://prod-files-secure.s3.us-west-2.amazonaws.com/f919ea82-652b-457a-afb1-c1fa46a0bc71/c0870c71-8be6-4957-984f-0275232e7249/1666974366611.jpeg)
+        
+        Linkedin : https://www.linkedin.com/in/arieadityanugraha
+        
+        Email : arieadityan@gmail.com
+        
+    3. **Randy Adityana** : DevOps Specialist / Infrastructure Engineer.
+        
+        ![1695730217167.jpeg](https://prod-files-secure.s3.us-west-2.amazonaws.com/f919ea82-652b-457a-afb1-c1fa46a0bc71/baabf0f1-2c62-4b40-af94-7486587a0884/1695730217167.jpeg)
+        
+        Linkedin : [https://www.linkedin.com/in/randyadityana](https://www.linkedin.com/in/randyadityana/)
+        
+        Email : [randy.adityana@gmail.com](mailto:randy.adityana@gmail.com)
 <!--
 
 **Here are some ideas to get you started:**
