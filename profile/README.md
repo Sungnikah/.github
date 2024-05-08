@@ -31,13 +31,13 @@ This organization is independent and adopts the theories and concepts of an infl
 🌈 Contribution guidelines - how can the community get involved ?, We are involved because we have the same vision!
 
 
-- T**eam Member / SN Troops Meet the team** 😃 **** :
+- Team Member / SN Troops Meet the team** 😃 :
     
     ***Plan and vision*** still in progress, but we belive something bigger products from vision and mission will accuired.
     
     1. **Dimas Prasetyo** : Frontend Developer Specialist & Jr. Fullstack Developer.
         
-        ![9084664.jpg](https://prod-files-secure.s3.us-west-2.amazonaws.com/f919ea82-652b-457a-afb1-c1fa46a0bc71/04317895-8fcc-4da4-941f-678a19431e13/9084664.jpg)
+        ![dimas-prasetyo.jpg](https://media.licdn.com/dms/image/D5635AQFIgHJ6X8_q8Q/profile-framedphoto-shrink_400_400/0/1710855896001?e=1715806800&v=beta&t=DR4RqpO_Szz5v8Y5Hr354JYAFbGvmHJZy6b8Mv8q8NM)
         
         Linkedin : https://www.linkedin.com/in/dimas-prasetyo
         
@@ -45,7 +45,7 @@ This organization is independent and adopts the theories and concepts of an infl
         
     2. **Arie Aditya Nugraha** : Frontend Developer Specialst & UIUX solutions.
         
-        ![1666974366611.jpeg](https://prod-files-secure.s3.us-west-2.amazonaws.com/f919ea82-652b-457a-afb1-c1fa46a0bc71/c0870c71-8be6-4957-984f-0275232e7249/1666974366611.jpeg)
+        ![arie-aditya-nugraha.jpeg](https://media.licdn.com/dms/image/D4E03AQGbwGN0SG2BTQ/profile-displayphoto-shrink_400_400/0/1666974366611?e=1720656000&v=beta&t=aB7dIaRYvZiAz6o-kgOojNDOQ5a5LMl2N6S6bar1CA8)
         
         Linkedin : https://www.linkedin.com/in/arieadityanugraha
         
@@ -53,18 +53,8 @@ This organization is independent and adopts the theories and concepts of an infl
         
     3. **Randy Adityana** : DevOps Specialist / Infrastructure Engineer.
         
-        ![1695730217167.jpeg](https://prod-files-secure.s3.us-west-2.amazonaws.com/f919ea82-652b-457a-afb1-c1fa46a0bc71/baabf0f1-2c62-4b40-af94-7486587a0884/1695730217167.jpeg)
+        ![randy-adityana.jpeg](https://media.licdn.com/dms/image/D5603AQE-uolUB8v0jQ/profile-displayphoto-shrink_400_400/0/1695730217167?e=1720656000&v=beta&t=Avr8mh_8stJiFZintihtzjMztbBpmP4yjHpf08yUqKk)
         
         Linkedin : [https://www.linkedin.com/in/randyadityana](https://www.linkedin.com/in/randyadityana/)
         
         Email : [randy.adityana@gmail.com](mailto:randy.adityana@gmail.com)
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
