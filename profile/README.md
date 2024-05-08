@@ -32,28 +32,10 @@ This organization is independent and adopts the theories and concepts of an infl
 
 
 - Team Member / SN Troops Meet the team** 😃 :
-    
-    ***Plan and vision*** still in progress, but we belive something bigger products from vision and mission will accuired.
-    
-    1. **Dimas Prasetyo** : Frontend Developer Specialist & Jr. Fullstack Developer.
-        <img src="https://media.licdn.com/dms/image/D5635AQFIgHJ6X8_q8Q/profile-framedphoto-shrink_400_400/0/1710855896001?e=1715806800&v=beta&t=DR4RqpO_Szz5v8Y5Hr354JYAFbGvmHJZy6b8Mv8q8NM" alt="dimas-prasetyo" width="100" height="auto"/>
+
+<img src="https://media.licdn.com/dms/image/D5635AQFIgHJ6X8_q8Q/profile-framedphoto-shrink_400_400/0/1710855896001?e=1715806800&v=beta&t=DR4RqpO_Szz5v8Y5Hr354JYAFbGvmHJZy6b8Mv8q8NM" alt="dimas-prasetyo" width="100" height="auto"/>
+
+<img src="https://media.licdn.com/dms/image/D4E03AQGbwGN0SG2BTQ/profile-displayphoto-shrink_400_400/0/1666974366611?e=1720656000&v=beta&t=aB7dIaRYvZiAz6o-kgOojNDOQ5a5LMl2N6S6bar1CA8" alt="dimas-prasetyo" width="100" height="auto"/>
         
-        Linkedin : https://www.linkedin.com/in/dimas-prasetyo
+<img src="https://media.licdn.com/dms/image/D5603AQE-uolUB8v0jQ/profile-displayphoto-shrink_400_400/0/1695730217167?e=1720656000&v=beta&t=Avr8mh_8stJiFZintihtzjMztbBpmP4yjHpf08yUqKk" alt="dimas-prasetyo" width="100" height="auto"/>
         
-        Email : dimasprasetyo485@gmail.com
-        
-    1. **Arie Aditya Nugraha** : Frontend Developer Specialst & UIUX solutions.
-        
-        ![arie-aditya-nugraha.jpeg](https://media.licdn.com/dms/image/D4E03AQGbwGN0SG2BTQ/profile-displayphoto-shrink_400_400/0/1666974366611?e=1720656000&v=beta&t=aB7dIaRYvZiAz6o-kgOojNDOQ5a5LMl2N6S6bar1CA8)
-        
-        Linkedin : https://www.linkedin.com/in/arieadityanugraha
-        
-        Email : arieadityan@gmail.com
-        
-    2. **Randy Adityana** : DevOps Specialist / Infrastructure Engineer.
-        
-        ![randy-adityana.jpeg](https://media.licdn.com/dms/image/D5603AQE-uolUB8v0jQ/profile-displayphoto-shrink_400_400/0/1695730217167?e=1720656000&v=beta&t=Avr8mh_8stJiFZintihtzjMztbBpmP4yjHpf08yUqKk)
-        
-        Linkedin : [https://www.linkedin.com/in/randyadityana](https://www.linkedin.com/in/randyadityana/)
-        
-        Email : [randy.adityana@gmail.com](mailto:randy.adityana@gmail.com)
