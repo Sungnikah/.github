@@ -31,7 +31,7 @@ This organization is independent and adopts the theories and concepts of an infl
 🌈 Contribution guidelines - how can the community get involved ?, We are involved because we have the same vision!
 
 
-- Team Member / SN Troops Meet the team** 😃 :
+- Team Member / SN Troops Meet the team 😃 :
 
 <div style="text-align:center">
    <img src="https://media.licdn.com/dms/image/D5635AQFIgHJ6X8_q8Q/profile-framedphoto-shrink_400_400/0/1710855896001?e=1715806800&v=beta&t=DR4RqpO_Szz5v8Y5Hr354JYAFbGvmHJZy6b8Mv8q8NM" alt="dimas-prasetyo" width="70" height="auto" style="margin-right:10px"/>
