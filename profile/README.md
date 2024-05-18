@@ -36,8 +36,13 @@ This organization is independent and adopts the theories and concepts of an infl
 <div style="text-align:center">
    <img src="https://media.licdn.com/dms/image/D5635AQFIgHJ6X8_q8Q/profile-framedphoto-shrink_400_400/0/1710855896001?e=1716660000&v=beta&t=yaz5HKF5e_r0F734ggbcEQAHnKdTolSh84PVA__XMiU" width="70" height="auto"/>
 
-   <img src="https://media.licdn.com/dms/image/D4E03AQGbwGN0SG2BTQ/profile-displayphoto-shrink_400_400/0/1666974366611?e=1720656000&v=beta&t=aB7dIaRYvZiAz6o-kgOojNDOQ5a5LMl2N6S6bar1CA8" alt="dimas-prasetyo" width="70" height="auto"/>
+   <img src="https://media.licdn.com/dms/image/D4E03AQGbwGN0SG2BTQ/profile-displayphoto-shrink_400_400/0/1666974366611?e=1720656000&v=beta&t=aB7dIaRYvZiAz6o-kgOojNDOQ5a5LMl2N6S6bar1CA8" alt="arie-aditya-nugraha" width="70" height="auto"/>
         
-   <img src="https://media.licdn.com/dms/image/D5603AQE-uolUB8v0jQ/profile-displayphoto-shrink_400_400/0/1695730217167?e=1720656000&v=beta&t=Avr8mh_8stJiFZintihtzjMztbBpmP4yjHpf08yUqKk" alt="dimas-prasetyo" width="70" height="auto"/>
+   <img src="https://media.licdn.com/dms/image/D5603AQE-uolUB8v0jQ/profile-displayphoto-shrink_400_400/0/1695730217167?e=1720656000&v=beta&t=Avr8mh_8stJiFZintihtzjMztbBpmP4yjHpf08yUqKk" alt="randy-adityana" width="70" height="auto"/>
+
+   
+   <img src="https://media.licdn.com/dms/image/D5603AQGmglF13jjXjQ/profile-displayphoto-shrink_800_800/0/1670131790094?e=1721260800&v=beta&t=ckqWApG-4ybV2xYScoTJVsLVz0GzAIdRVZwXGFJ36AE
+" alt="muhammad-uray-noor-fajri" width="70" height="auto"/>
 </div>
+
         
