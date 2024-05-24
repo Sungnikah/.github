@@ -2,7 +2,7 @@
 
 Organization Sungnikah is was build form stracth by some idea and see the other problems what is being experienced started from Dimas aka Tyo and Adit aka Arie wants to get married but we have same of the issue cause COVID-19. When COVID came, it paralyzed all industries, especially tourism and wedding solutions. This is what makes digital invitations emerge as an alternative solution.
 
-Sungnikah is a wedding blog website that provides inspiration, guidance and tips for planning the perfect wedding celebration. This repository contains the source code of Sungnikah, which is built using the latest web technologies including Next.js, Tailwind CSS and TypeScript.
+Sungnikah is a wedding blog website that provides inspiration, guidance and tips for planning the perfect wedding celebration. This repository contains the source code of Sungnikah, which is built using the latest web technologies including Next.js, Tailwind CSS and TypeScript, Express / Node JS.
 
 ## Vision :
 
