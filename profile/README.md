@@ -15,7 +15,7 @@ Sungnikah is a wedding blog website that provides inspiration, guidance and tips
 ## Mission :
 
 - Sleek and modern design.
-- Easy navigation and user-friendly interface.
+- Easy navigation and user-friendly interface making the best impact for wedding industry.
 - The best platform digital wedding invitation and easy to use.
 - Cross platform and connection other people to find information with the best gift souvenirs
 
