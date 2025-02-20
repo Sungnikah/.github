@@ -6,11 +6,7 @@ Sungnikah is a wedding blog website that provides inspiration, guidance and tips
 
 ## Vision :
 
-- Inspiring articles and blog posts on wedding planning.
-- Tips and ideas for a memorable wedding celebration.
-- Digitalization Invitation and guest book.
-- Helping user find the best wedding solutions, and celebration.
-- One stop platform aggregator for wedding solution.
+Menjadi platform digital terdepan dalam industri pernikahan yang memberikan solusi inovatif dan terintegrasi bagi pasangan, vendor, dan penyelenggara acara untuk menciptakan pengalaman pernikahan yang lebih efisien, interaktif, dan berkesan.
 
 ## Mission :
 
