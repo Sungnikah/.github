@@ -6,7 +6,7 @@ Sungnikah is a wedding blog website that provides inspiration, guidance and tips
 
 ## Vision :
 
-Menjadi platform digital terdepan dalam industri pernikahan yang memberikan solusi inovatif dan terintegrasi bagi pasangan, vendor, dan penyelenggara acara untuk menciptakan pengalaman pernikahan yang lebih efisien, interaktif, dan berkesan.
+To be the leading digital platform in the wedding industry that provides innovative and integrated solutions for couples, vendors and event organizers to create a more efficient, interactive and memorable wedding experience.
 
 ## Mission :
 
